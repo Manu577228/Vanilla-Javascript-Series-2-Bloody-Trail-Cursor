@@ -5,7 +5,7 @@ canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
 const trailLength = 20;
-const trailColor = "255, 0, 0";
+const trailColor = "255, 49, 49";
 const trail = [];
 
 function draw() {
