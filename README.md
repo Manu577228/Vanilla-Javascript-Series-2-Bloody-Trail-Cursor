@@ -1,4 +1,4 @@
-# Welcome to Bloody Trail Cursor App!
+# Welcome to Neon Red Trail Cursor App!
 
 Hey there! 👋 I'm Manu Bharadwaj. If you find this project useful or interesting, don't forget to give it a ⭐️!
 
